@@ -3,4 +3,5 @@
     <string name="main_title_text">Cardápio Online</string>
     <string name="back">Voltar</string>
     <string name="detail_text">Detalhe do Prato</string>
+    <string name="card_pio_online">Cardápio Online</string>
 </resources>
