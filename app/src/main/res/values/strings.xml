@@ -8,4 +8,5 @@
     <string name="r_00_00">R$ 00,00</string>
     <string name="descri_o_do_prato">Descrição do Prato</string>
     <string name="nome_do_prato">Nome do Prato</string>
+    <string name="t_tulo_do_prato">Título do Prato</string>
 </resources>
