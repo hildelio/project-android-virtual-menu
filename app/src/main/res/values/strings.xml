@@ -4,4 +4,8 @@
     <string name="back">Voltar</string>
     <string name="detail_text">Detalhe do Prato</string>
     <string name="card_pio_online">Cardápio Online</string>
+    <string name="detalhe_do_prato">Detalhe do Prato</string>
+    <string name="r_00_00">R$ 00,00</string>
+    <string name="descri_o_do_prato">Descrição do Prato</string>
+    <string name="nome_do_prato">Nome do Prato</string>
 </resources>
