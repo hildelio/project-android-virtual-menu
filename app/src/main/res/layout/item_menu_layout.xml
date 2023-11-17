@@ -7,8 +7,8 @@
     android:layout_height="wrap_content"
     android:layout_marginBottom="10dp"
     android:backgroundTint="@color/secondary"
-    android:elevation="10dp"
-    app:cardCornerRadius="10dp">
+    app:cardCornerRadius="10dp"
+    app:cardElevation="10dp">
 
     <LinearLayout
         android:id="@+id/item_menu_linear_container"
@@ -27,11 +27,11 @@
             android:id="@+id/item_menu_name"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/t_tulo_do_prato"
-            android:paddingVertical="5dp"
             android:paddingHorizontal="10dp"
+            android:paddingVertical="5dp"
+            android:text="@string/t_tulo_do_prato"
             android:textColor="@color/white"
-            android:textStyle="bold"
-            android:textSize="18sp"/>
+            android:textSize="18sp"
+            android:textStyle="bold" />
     </LinearLayout>
 </com.google.android.material.card.MaterialCardView>
