@@ -26,8 +26,6 @@ class MainActivity : AppCompatActivity(), MenuDishesItemListener {
 
         menuDishesList.layoutManager = LinearLayoutManager(baseContext)
         menuDishesList.adapter = adapter
-
-
     }
 
     override fun onItemClick(view: View, position: Int) {
